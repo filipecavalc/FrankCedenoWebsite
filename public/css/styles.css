@@ -71,3 +71,29 @@ header a {
 .menu-icons a:last-child img {
   margin-right: 0;
 }
+.my-name-is {
+  display: flex;
+  flex-direction: row;
+}
+.my-name-is .audiovisual {
+  position: absolute;
+  top: 498px;
+  left: 295px;
+  width: 724px;
+  height: 173px;
+}
+.my-name-is .audiovisual img {
+  top: 498px;
+  left: 295px;
+  width: 724px;
+  height: 173px;
+}
+.my-name-is .audiovisual-text {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  font: normal normal bold 45px/36px 'Comfortaa';
+  letter-spacing: 0px;
+  top: 28px;
+  left: 110px;
+}
