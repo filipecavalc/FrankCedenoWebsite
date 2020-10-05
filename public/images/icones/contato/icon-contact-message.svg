@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-icon-contact-message">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="icon-contact-message" clip-path="url(#clip-icon-contact-message)">
+    <rect width="150" height="150" fill="rgba(255,255,255,0)"/>
+    <g id="Icon_ionic-ios-mail" data-name="Icon ionic-ios-mail" transform="translate(9.957 30.432)">
+      <path id="Trazado_218" data-name="Trazado 218" d="M132.4,10.506,98.751,44.779a.6.6,0,0,0,0,.876L122.3,70.733a4.058,4.058,0,0,1,0,5.754,4.077,4.077,0,0,1-5.754,0L93.091,51.5a.642.642,0,0,0-.907,0l-5.723,5.816a25.178,25.178,0,0,1-17.949,7.568A25.683,25.683,0,0,1,50.187,57.1l-5.5-5.6a.642.642,0,0,0-.907,0L20.324,76.487a4.077,4.077,0,0,1-5.754,0,4.058,4.058,0,0,1,0-5.754L38.117,45.654a.666.666,0,0,0,0-.876L4.438,10.506a.616.616,0,0,0-1.063.438V79.521A10.036,10.036,0,0,0,13.382,89.527H123.454a10.036,10.036,0,0,0,10.007-10.007V10.944A.626.626,0,0,0,132.4,10.506Z" transform="translate(-3.375 0.532)" fill="#303030"/>
+      <path id="Trazado_219" data-name="Trazado 219" d="M65.485,65.132A17,17,0,0,0,77.712,60l49.064-49.939a9.828,9.828,0,0,0-6.192-2.189H10.417a9.763,9.763,0,0,0-6.192,2.189L53.289,60A17,17,0,0,0,65.485,65.132Z" transform="translate(-0.442 -7.875)" fill="#303030"/>
+    </g>
+  </g>
+</svg>

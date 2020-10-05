@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-icon-footer-vimeo">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="icon-footer-vimeo" clip-path="url(#clip-icon-footer-vimeo)">
+    <rect width="150" height="150" fill="rgba(255,255,255,0)"/>
+    <g id="Grupo_471" data-name="Grupo 471" transform="translate(-9784.175 -1443)">
+      <circle id="Elipse_40" data-name="Elipse 40" cx="74.497" cy="74.497" r="74.497" transform="translate(9785.175 1444)" fill="#52c6ba"/>
+      <path id="Icon_awesome-vimeo-v" data-name="Icon awesome-vimeo-v" d="M62.927,17.083q-.422,9.19-12.844,25.168Q37.246,58.945,28.358,58.945q-5.5,0-9.317-10.16C14.095,30.629,11.987,19.992,7.9,19.992c-.478,0-2.122,1-4.946,2.965L0,19.134C7.251,12.769,14.179,5.686,18.521,5.293q7.357-.717,9.05,10.048C31.6,40.846,33.389,44.7,40.724,33.145q3.942-6.239,4.244-9.5c.675-6.45-5.031-6.014-8.9-4.356Q40.71,4.091,53.807,4.52c6.436.169,9.485,4.37,9.12,12.563Z" transform="translate(9827.021 1486.941)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136" viewBox="0 0 136 136">
+  <defs>
+    <clipPath id="clip-icon-menu-linkedin">
+      <rect width="136" height="136"/>
+    </clipPath>
+  </defs>
+  <g id="icon-menu-linkedin" clip-path="url(#clip-icon-menu-linkedin)">
+    <rect width="136" height="136" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_awesome-linkedin-in" data-name="Icon awesome-linkedin-in" d="M25.685,114.747H1.9V38.137h23.79ZM13.778,27.686A13.843,13.843,0,1,1,27.555,13.778,13.894,13.894,0,0,1,13.778,27.686Zm100.945,87.06H90.984V77.453c0-8.888-.179-20.286-12.369-20.286-12.369,0-14.264,9.656-14.264,19.646v37.934H40.587V38.137H63.4v10.45h.333c3.176-6.019,10.934-12.371,22.509-12.371,24.077,0,28.5,15.855,28.5,36.448v42.083Z" transform="translate(11 10.999)" fill="#3b3835"/>
+  </g>
+</svg>

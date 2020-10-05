@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136" height="136" viewBox="0 0 136 136">
+  <defs>
+    <clipPath id="clip-icon-menu-vimeo">
+      <rect width="136" height="136"/>
+    </clipPath>
+  </defs>
+  <g id="icon-menu-vimeo" clip-path="url(#clip-icon-menu-vimeo)">
+    <rect width="136" height="136" fill="rgba(255,255,255,0)"/>
+    <path id="Icon_awesome-vimeo-v" data-name="Icon awesome-vimeo-v" d="M114.693,27.427q-.768,16.751-23.41,45.872-23.4,30.428-39.6,30.428-10.027,0-16.981-18.518c-9.016-33.091-12.857-52.48-20.311-52.48-.871,0-3.867,1.818-9.016,5.4L0,31.166C13.216,19.564,25.843,6.655,33.757,5.938Q47.165,4.632,50.252,24.251c7.351,46.487,10.6,53.5,23.973,32.451Q81.409,45.33,81.96,39.388c1.229-11.756-9.169-10.962-16.213-7.94Q74.2,3.748,98.07,4.529c11.73.307,17.288,7.965,16.622,22.9Z" transform="translate(11 13.492)" fill="#3b3835"/>
+  </g>
+</svg>

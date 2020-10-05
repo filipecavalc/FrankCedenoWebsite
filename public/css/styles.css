@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('../fonts/Lato/Lato-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Comfortaa';
+  src: url('../fonts/Comfortaa/Comfortaa-VariableFont_wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  src: url('../fonts/Quicksand/Quicksand-VariableFont_wght.ttf') format('truetype');
+}
+body {
+  font-family: 'Lato';
+}
 header a {
   text-decoration: none;
 }
@@ -8,4 +23,18 @@ header a {
 .column {
   display: flex;
   flex-direction: column;
+}
+.logo-header {
+  display: flex;
+  flex-direction: row;
+}
+.logo-header img {
+  height: 71px;
+}
+.menu-header {
+  display: flex;
+  flex-direction: row;
+}
+.menu-header a {
+  text-decoration: none;
 }

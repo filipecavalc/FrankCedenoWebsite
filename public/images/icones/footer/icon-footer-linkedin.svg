@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="150" viewBox="0 0 150 150">
+  <defs>
+    <clipPath id="clip-icon-footer-linkedin">
+      <rect width="150" height="150"/>
+    </clipPath>
+  </defs>
+  <g id="icon-footer-linkedin" clip-path="url(#clip-icon-footer-linkedin)">
+    <rect width="150" height="150" fill="rgba(255,255,255,0)"/>
+    <g id="Grupo_473" data-name="Grupo 473" transform="translate(-10134.503 -1444)">
+      <circle id="Elipse_42" data-name="Elipse 42" cx="75" cy="75" r="75" transform="translate(10134.503 1444)" fill="#52c6ba"/>
+      <path id="Icon_awesome-linkedin-in" data-name="Icon awesome-linkedin-in" d="M14.092,62.957H1.04V20.924H14.092ZM7.559,15.191A7.6,7.6,0,1,1,15.118,7.56,7.623,7.623,0,0,1,7.559,15.191ZM62.944,62.957H49.92V42.5c0-4.876-.1-11.13-6.786-11.13-6.786,0-7.826,5.3-7.826,10.779V62.957H22.269V20.924H34.787v5.734h.183c1.743-3.3,6-6.788,12.35-6.788,13.21,0,15.638,8.7,15.638,20V62.957Z" transform="translate(10176.71 1485.47)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
