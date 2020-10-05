@@ -36,6 +36,7 @@
 
 body {
     font-family: 'Lato';
+    margin: 0;
 }
 
 header a {
@@ -52,17 +53,58 @@ header a {
     flex-direction: column;
 }
 
-.logo-header{
+.menu {
     .row();
+    justify-content: space-between;
+}
+
+.logo-header {
+    .row();
+    margin-left: 140px;
 
     img {
-        height: 71px;
+        margin: 12px 0 0 0;
+        width: 63px;
+        height: 77px;
+    }
+
+    p {
+        font-family: 'Quicksand';
+        font-size: 30px;
+        color: @cor8;
+        margin: 33px 0 0 0;
     }
 }
 
 .menu-header {
     .row();
+
     a {
         text-decoration: none;
+        color: @cor8;
+        margin: 32px 67px 0 0;
+
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}
+
+.menu-icons {
+    .row();
+    margin-right: 143px;
+
+    img {
+        width: 25px;
+        height: 16px;
+        margin: 39px 35px 0 0;
+    }
+    
+    a {
+        &:last-child {
+            img {
+                margin-right: 0;
+            }
+        }
     }
 }

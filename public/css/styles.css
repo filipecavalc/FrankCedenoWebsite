@@ -12,6 +12,7 @@
 }
 body {
   font-family: 'Lato';
+  margin: 0;
 }
 header a {
   text-decoration: none;
@@ -24,12 +25,26 @@ header a {
   display: flex;
   flex-direction: column;
 }
+.menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 .logo-header {
   display: flex;
   flex-direction: row;
+  margin-left: 140px;
 }
 .logo-header img {
-  height: 71px;
+  margin: 12px 0 0 0;
+  width: 63px;
+  height: 77px;
+}
+.logo-header p {
+  font-family: 'Quicksand';
+  font-size: 30px;
+  color: #303030;
+  margin: 33px 0 0 0;
 }
 .menu-header {
   display: flex;
@@ -37,4 +52,22 @@ header a {
 }
 .menu-header a {
   text-decoration: none;
+  color: #303030;
+  margin: 32px 67px 0 0;
+}
+.menu-header a:last-child {
+  margin-right: 0;
+}
+.menu-icons {
+  display: flex;
+  flex-direction: row;
+  margin-right: 143px;
+}
+.menu-icons img {
+  width: 25px;
+  height: 16px;
+  margin: 39px 35px 0 0;
+}
+.menu-icons a:last-child img {
+  margin-right: 0;
 }
